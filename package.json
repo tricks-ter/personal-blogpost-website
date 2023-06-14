@@ -1,11 +1,18 @@
 {
   "name": "blogpost",
   "version": "1.0.0",
-  "description": "This is my blog",
-  "main": "app.js",
+  "description": "blog",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Akash",
-  "license": "ISC"
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "g": "^2.0.1",
+    "lodash": "^4.17.21",
+    "three.js": "^0.77.0"
+  }
 }
